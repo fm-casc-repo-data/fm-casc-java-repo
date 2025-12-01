@@ -1,14 +1,12 @@
 ---
-      apiVersion: featuremanagement.cloudbees.io/v1alpha1
-      kind: flag
+apiVersion: featuremanagement.cloudbees.io/v1alpha1
+kind: flag
 
-      flag: flag-2d7037dd-21ef-48a2-b078-4a57bbe73f0d
-      flagType: boolean
-      description: AutoTest Description
-      labels:
+flag: flag-2d7037dd-21ef-48a2-b078-4a57bbe73f0d
+flagType: boolean
+description: AutoTest Description
+labels:
 
-      availableValues:
-        - "true"
-        - "false"
+availableValues:
 
-      isPermanent: false
+isPermanent: false
