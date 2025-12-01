@@ -2,9 +2,9 @@
 apiVersion: featuremanagement.cloudbees.io/v1alpha1
 kind: flag
 
-flag: AutoTest.3425bfc9-dfe2-4037-b73f-ea1f937d137b.Boolean.Flag
+flag: flag-health-2-1
 flagType: boolean
-description: AutoTest Description
+description: ""
 labels:
 
 availableValues:
