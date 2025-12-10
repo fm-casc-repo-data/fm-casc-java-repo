@@ -1,0 +1,15 @@
+---
+apiVersion: featuremanagement.cloudbees.io/v1alpha1
+kind: target-group
+
+name: Target-group.01902874-7dcb-47fa-ba07-d835541e24ea
+
+description: Target group 1
+
+conditions:
+  allOf:
+    - property:
+        name: Boolean.fe18a545-fe42-4594-8b90-a7c4724c66be
+        operator: ne
+        operands:
+            - "false"
