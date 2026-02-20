@@ -2,6 +2,6 @@
 apiVersion: featuremanagement.cloudbees.io/v1alpha1
 kind: flag-properties
 
-name: Boolean.436ff9d1-648b-4032-8217-851c3af84e35
+name: Boolean.386bdf6e-3b1d-429b-a411-682f8ea7fcfe
 type: Boolean
 description: "just description"
